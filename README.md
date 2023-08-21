@@ -1,4 +1,4 @@
 # mySpringApps
 Here is my Spring apps
 
-With this repository, I am sharing the projects I have done for the topics that my luv2code teacher, who I took the spring course from udemy, taught in the course.
+With this repository, I share the projects I made for the topics I learned in the Spring Course on Udemy from my luv2code teacher.
